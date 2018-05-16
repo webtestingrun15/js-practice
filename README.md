@@ -8,9 +8,9 @@ while telling user if they can afford them.
 
 ## Tools / Resources
 
+[YDJS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#practice)
 ESLINT (Airbnb standard) - let instead var
 MDN JavaScript
-YDJS
 Wes Bos JS30 - template literals, const
 CS50 - understanding do-while loops, coding concepts
 
