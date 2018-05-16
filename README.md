@@ -16,8 +16,8 @@ while telling user if they can afford them.
 
 ## Todo
 
-[] Replace prompts with user input
+* [ ] Replace prompts with user input
 
-[] Replace console.log messages with dom api (queryselector, addEventListener)
+* [ ] Replace console.log messages with dom api (queryselector, addEventListener)
 
-[] A JS Framework
+* [ ] A JS Framework
